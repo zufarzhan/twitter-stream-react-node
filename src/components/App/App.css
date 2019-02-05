@@ -1,0 +1,15 @@
+body {
+  background-color: #eceff1;
+}
+
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 25px 50px;
+}
+
+.tweets-container {
+  padding: 0px 25px;
+  overflow-y: auto;
+  height: calc(100vh - 160px);
+}
