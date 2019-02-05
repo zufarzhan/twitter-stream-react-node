@@ -20,7 +20,6 @@ describe('App components tests', () => {
       },
       text: 'test text'
     }] })
-    wrapper.update()
     expect(wrapper.find(Tweet).length).toBe(1)
   })
 })
