@@ -1,6 +1,6 @@
 ## Twitter Feed App
 
-This repository hosts source code the simple application which allows you to see Twitter feed in real time.
+This repository hosts source code for the simple application which allows you to see Twitter feed in real time.
 
 ## Installation instructions
 - Install [npm/node](https://nodejs.org/en/)
