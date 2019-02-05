@@ -8,6 +8,7 @@ This repository hosts source code for the simple application which allows you to
 ```sh
 $ npm install
 ```
+- Update server/server.js file with your personal Twitter API key
 - Run the server with the following command(browser will be opened automatically):
 ```sh
 $ npm start
