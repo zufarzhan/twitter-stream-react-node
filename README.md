@@ -41,3 +41,5 @@ $ npm test
 - [Semantic UI](https://react.semantic-ui.com/) - UI library for react.
 - [Node.js](https://nodejs.org/en/) - A JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Express](https://expressjs.com/) - Node.js web application framework.
+- [socket.io](https://socket.io/) - The fastest and most reliable real-time engine.
+
