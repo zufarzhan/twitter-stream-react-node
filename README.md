@@ -32,7 +32,7 @@ $ npm run test-back-end
 $ npm test
 ```
 
-### Screenshot
+## Screenshot
 ![alt Kahoot! Points](https://github.com/zufarzhan/twitter-stream-react-node/blob/master/Screenshot.png)
 
 
