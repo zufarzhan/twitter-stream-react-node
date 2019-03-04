@@ -1,6 +1,8 @@
 ## Twitter Feed App
 
-This repository hosts source code for the simple application which allows you to see Twitter feed in real time. The app was built using React and Node. For real time updates this app uses socket.io.
+This repository hosts source code for simple application which allows you to see Twitter feed in real time.  
+You can specify search term for your feed. NB! It will be updated for all users (server side uses only one Twitter stream connection at time).  
+The app was built using React and Node. For real time updates this app uses socket.io.
 
 ## Installation instructions
 - Install [npm/node](https://nodejs.org/en/)
