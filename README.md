@@ -44,7 +44,7 @@ $ npm test
 
 ## Screenshot
 
-![alt Kahoot! Points](https://github.com/zufarzhan/twitter-stream-react-node/blob/master/Screenshot.png)
+![alt Twitter Stream App](https://github.com/zufarzhan/twitter-stream-react-node/blob/master/Screenshot.png)
 
 
 ## Main tools and libraries used
