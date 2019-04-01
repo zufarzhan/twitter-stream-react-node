@@ -44,7 +44,7 @@ $ npm test
 
 ## Screenshot
 
-![alt Twitter Stream App](https://github.com/zufarzhan/twitter-stream-react-node/blob/master/Screenshot.png)
+![Twitter Stream App](https://github.com/zufarzhan/twitter-stream-react-node/blob/master/Screenshot.png)
 
 
 ## Main tools and libraries used
