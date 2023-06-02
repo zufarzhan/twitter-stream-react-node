@@ -3,6 +3,7 @@
 This repository hosts source code for simple application which allows you to see Twitter feed in real time.  
 You can specify search term for your feed.  
 
+## Not relevant because of changes in Twitter API
 
 *NB! If you change serach term, it will be updated for all users.  
 (server side uses only one Twitter stream connection at time)*  
